@@ -1,3 +1,3 @@
 # Header 👾
-mano thiago frank pediu p fazer uma header !
+mano thiago frank pediu p fazer um header !
 
