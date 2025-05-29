@@ -49,7 +49,7 @@ div.links a{
 }
 div.links a:hover{
         color: rgb(173, 202, 255);
-        font-size: 1.25rem;;
+        font-size: 1.25rem;
 }
 
 @media (max-width: 720px) {
